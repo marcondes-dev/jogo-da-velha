@@ -16,21 +16,27 @@ body{
     height: 100px;
     font-size: 30px;
     text-align: center;
-    border: 10px rgba(0, 0, 0, 0.2);
+    border: solid 10px rgba(0, 0, 0, 0.3);
 }
 
 .grid-item-top-bottom{
     height: 100px;
     font-size: 30px;
     text-align: center;
-    border-top: 10px rgba(0, 0, 0, 0.5);
-    border-bottom: 10px rgba(0, 0, 0, 0.5);
+    border-top: solid 10px rgba(0, 0, 0, 0.3);
+    border-bottom: solid 10px rgba(0, 0, 0, 0.3);
 }
 
 .grid-item-left-right{
     height: 100px;
     font-size: 30px;
     text-align: center;
-    border-left: 10px rgba(0, 0, 0, 0.2);
-    border-right: 10px rgba(0, 0, 0, 0.2);
+    border-left: solid 10px rgba(0, 0, 0, 0.3);
+    border-right: solid 10px rgba(0, 0, 0, 0.3);
+}
+
+.grid-item{
+    height: 100px;
+    font-size: 30px;
+    text-align: center;
 }
