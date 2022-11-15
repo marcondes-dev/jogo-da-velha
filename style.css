@@ -6,6 +6,12 @@ body{
     flex-direction: column;
 }
 
+p{
+    font-size: 50px;
+    color: white;
+    margin-top: 12.5%;
+}
+
 button {
     background-color: #4CAF50; /* Green */
     border: none;
@@ -17,5 +23,5 @@ button {
     font-size: 30px;
     border-radius: 8px;  
     display: block;
-    margin-top: 22.5%;
+    margin-top: 12.5%;
 }
